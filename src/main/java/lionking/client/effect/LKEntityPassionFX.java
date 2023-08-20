@@ -24,7 +24,6 @@ public class LKEntityPassionFX extends EntityFX {
 		float f1 = (particleAge + f) / particleMaxAge;
 
 		if (f1 < 0.0F) {
-			f1 = 0.0F;
 		}
 
 		int i = super.getBrightnessForRender(f);

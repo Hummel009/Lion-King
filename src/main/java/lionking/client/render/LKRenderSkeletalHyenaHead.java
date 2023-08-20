@@ -1,7 +1,6 @@
 package lionking.client.render;
 
 import lionking.client.model.LKModelHyenaHead;
-import lionking.client.render.LKRenderLiving;
 import net.minecraft.entity.Entity;
 import net.minecraft.util.ResourceLocation;
 

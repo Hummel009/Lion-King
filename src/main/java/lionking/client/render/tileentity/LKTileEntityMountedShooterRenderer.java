@@ -1,4 +1,4 @@
-package lionking.client.tileentity;
+package lionking.client.render.tileentity;
 
 import lionking.client.model.LKModelMountedShooter;
 import lionking.common.tileentity.LKTileEntityMountedShooter;

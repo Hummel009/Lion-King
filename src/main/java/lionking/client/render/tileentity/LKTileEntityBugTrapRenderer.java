@@ -1,4 +1,4 @@
-package lionking.client.tileentity;
+package lionking.client.render.tileentity;
 
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.RenderBlocks;

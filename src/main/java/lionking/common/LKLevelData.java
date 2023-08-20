@@ -244,8 +244,8 @@ public class LKLevelData {
 	}
 
 	public static boolean hasSimba(EntityPlayer entityplayer) {
-		Object obj = simbas.get(entityplayer.username);
-		return obj instanceof Integer && (Integer) obj == 1;
+		Integer obj = simbas.get(entityplayer.username);
+		return obj instanceof Integer && obj == 1;
 	}
 
 	public static void setHasSimba(EntityPlayer entityplayer, boolean flag) {

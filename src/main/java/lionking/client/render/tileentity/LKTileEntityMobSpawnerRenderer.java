@@ -1,4 +1,4 @@
-package lionking.client.tileentity;
+package lionking.client.render.tileentity;
 
 import lionking.common.tileentity.LKTileEntityMobSpawner;
 import net.minecraft.client.renderer.entity.RenderManager;

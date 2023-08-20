@@ -1,4 +1,4 @@
-package lionking.client.tileentity;
+package lionking.client.render.tileentity;
 
 import lionking.client.model.LKModelHyenaHead;
 import lionking.client.render.LKRenderHyena;
