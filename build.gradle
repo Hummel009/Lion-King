@@ -11,12 +11,7 @@ buildscript {
 
 apply plugin: 'agency.highlysuspect.voldeloom'
 
-java {
-	toolchain {
-		languageVersion = JavaLanguageVersion.of(11)
-	}
-}
-
+java.toolchain.languageVersion = JavaLanguageVersion.of(11)
 compileJava.options.release.set(6)
 
 final String minecraftVersion = '1.6.4'
