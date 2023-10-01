@@ -1,7 +1,7 @@
 package lionking.common.inventory;
 
-import lionking.common.entity.LKEntityTimon;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityTimon;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.inventory.IInventory;
 import net.minecraft.item.ItemStack;

@@ -2,7 +2,10 @@ package lionking.common.item;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-import lionking.common.*;
+import lionking.common.LKCreativeTabs;
+import lionking.common.LKIngame;
+import lionking.common.LKLevelData;
+import lionking.common.LKMod;
 import lionking.common.world.LKTeleporterFeather;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.EntityPlayerMP;

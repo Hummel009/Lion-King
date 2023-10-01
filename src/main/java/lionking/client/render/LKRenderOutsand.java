@@ -1,7 +1,7 @@
 package lionking.client.render;
 
-import lionking.common.entity.LKEntityOutsand;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityOutsand;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.RenderBlocks;
 import net.minecraft.client.renderer.entity.Render;

@@ -1,8 +1,8 @@
 package lionking.common.world.biome;
 
+import lionking.common.LKMod;
 import lionking.common.entity.LKEntityDikdik;
 import lionking.common.world.feature.LKWorldGenKiwano;
-import lionking.common.LKMod;
 import net.minecraft.block.Block;
 import net.minecraft.world.World;
 import net.minecraft.world.biome.SpawnListEntry;

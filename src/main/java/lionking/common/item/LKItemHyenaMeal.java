@@ -2,9 +2,9 @@ package lionking.common.item;
 
 import lionking.common.LKCreativeTabs;
 import lionking.common.LKIngame;
+import lionking.common.LKMod;
 import lionking.common.block.LKBlockKiwanoStem;
 import lionking.common.block.LKBlockSapling;
-import lionking.common.LKMod;
 import lionking.common.world.biome.*;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockCrops;

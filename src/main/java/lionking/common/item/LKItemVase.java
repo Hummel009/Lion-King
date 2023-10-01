@@ -2,11 +2,11 @@ package lionking.common.item;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-import lionking.common.entity.LKCharacterSpeech;
 import lionking.common.LKCreativeTabs;
 import lionking.common.LKIngame;
-import lionking.common.entity.LKEntityRafiki;
 import lionking.common.LKMod;
+import lionking.common.entity.LKCharacterSpeech;
+import lionking.common.entity.LKEntityRafiki;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.texture.IconRegister;
 import net.minecraft.creativetab.CreativeTabs;

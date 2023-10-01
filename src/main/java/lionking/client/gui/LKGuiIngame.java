@@ -1,8 +1,8 @@
 package lionking.client.gui;
 
 import lionking.client.LKClientProxy;
-import lionking.common.entity.LKEntityZira;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityZira;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.ScaledResolution;
 import net.minecraft.client.renderer.Tessellator;

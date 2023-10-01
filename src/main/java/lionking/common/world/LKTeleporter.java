@@ -1,7 +1,7 @@
 package lionking.common.world;
 
-import lionking.common.entity.LKEntitySimba;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntitySimba;
 import net.minecraft.entity.Entity;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.util.Direction;

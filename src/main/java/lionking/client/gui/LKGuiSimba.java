@@ -1,8 +1,8 @@
 package lionking.client.gui;
 
 import cpw.mods.fml.common.network.PacketDispatcher;
-import lionking.common.inventory.LKContainerSimba;
 import lionking.common.entity.LKEntitySimba;
+import lionking.common.inventory.LKContainerSimba;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.entity.player.EntityPlayer;

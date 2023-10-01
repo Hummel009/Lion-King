@@ -1,9 +1,9 @@
 package lionking.client.render;
 
 import cpw.mods.fml.client.registry.ISimpleBlockRenderingHandler;
+import lionking.common.LKMod;
 import lionking.common.block.LKBlockKiwanoStem;
 import lionking.common.block.LKBlockVase;
-import lionking.common.LKMod;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockStem;
 import net.minecraft.client.renderer.EntityRenderer;

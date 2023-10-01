@@ -1,7 +1,7 @@
 package lionking.client.render;
 
-import lionking.common.entity.LKEntityCoin;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityCoin;
 import net.minecraft.client.renderer.Tessellator;
 import net.minecraft.client.renderer.entity.Render;
 import net.minecraft.client.renderer.texture.TextureMap;

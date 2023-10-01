@@ -1,8 +1,8 @@
 package lionking.common.entity;
 
 import lionking.common.LKLevelData;
-import lionking.common.entity.ai.LKEntityAITermiteQueenAttack;
 import lionking.common.LKMod;
+import lionking.common.entity.ai.LKEntityAITermiteQueenAttack;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityCreature;
 import net.minecraft.entity.SharedMonsterAttributes;

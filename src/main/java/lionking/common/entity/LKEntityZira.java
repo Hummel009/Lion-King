@@ -1,6 +1,9 @@
 package lionking.common.entity;
 
-import lionking.common.*;
+import lionking.common.LKAchievementList;
+import lionking.common.LKIngame;
+import lionking.common.LKLevelData;
+import lionking.common.LKMod;
 import lionking.common.entity.ai.LKEntityAIAngerableAttackableTarget;
 import lionking.common.entity.ai.LKEntityAILionAttack;
 import lionking.common.quest.LKQuestBase;

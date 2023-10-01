@@ -2,8 +2,8 @@ package lionking.common.item;
 
 import lionking.common.LKCommonProxy;
 import lionking.common.LKCreativeTabs;
-import lionking.common.inventory.LKInventoryQuiver;
 import lionking.common.LKMod;
+import lionking.common.inventory.LKInventoryQuiver;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;

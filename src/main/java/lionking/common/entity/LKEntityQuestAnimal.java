@@ -1,6 +1,8 @@
 package lionking.common.entity;
 
-import lionking.common.*;
+import lionking.common.LKAchievementList;
+import lionking.common.LKIngame;
+import lionking.common.LKMod;
 import lionking.common.quest.LKAnimalQuest;
 import net.minecraft.entity.item.EntityXPOrb;
 import net.minecraft.entity.passive.EntityAnimal;

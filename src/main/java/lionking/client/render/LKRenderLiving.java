@@ -1,7 +1,7 @@
 package lionking.client.render;
 
 import lionking.client.LKTickHandlerClient;
-import lionking.common.*;
+import lionking.common.LKIngame;
 import lionking.common.entity.LKAngerable;
 import lionking.common.entity.LKEntityLionBase;
 import lionking.common.entity.LKEntityQuestAnimal;

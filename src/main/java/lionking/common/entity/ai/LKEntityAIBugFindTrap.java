@@ -1,8 +1,8 @@
 package lionking.common.entity.ai;
 
-import lionking.common.tileentity.LKTileEntityBugTrap;
-import lionking.common.entity.LKEntityBug;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityBug;
+import lionking.common.tileentity.LKTileEntityBugTrap;
 import net.minecraft.entity.ai.EntityAIBase;
 import net.minecraft.util.MathHelper;
 import net.minecraft.world.World;

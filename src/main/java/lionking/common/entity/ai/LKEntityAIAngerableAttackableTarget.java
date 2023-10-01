@@ -1,8 +1,8 @@
 package lionking.common.entity.ai;
 
+import lionking.common.LKMod;
 import lionking.common.entity.LKAngerable;
 import lionking.common.entity.LKEntityOutlander;
-import lionking.common.LKMod;
 import net.minecraft.entity.EntityCreature;
 import net.minecraft.entity.ai.EntityAINearestAttackableTarget;
 import net.minecraft.entity.player.EntityPlayer;

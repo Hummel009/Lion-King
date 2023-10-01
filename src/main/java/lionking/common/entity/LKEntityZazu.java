@@ -2,8 +2,8 @@ package lionking.common.entity;
 
 import lionking.common.LKAchievementList;
 import lionking.common.LKIngame;
-import lionking.common.entity.ai.LKEntityAIZazuMate;
 import lionking.common.LKMod;
+import lionking.common.entity.ai.LKEntityAIZazuMate;
 import net.minecraft.entity.EntityAgeable;
 import net.minecraft.entity.SharedMonsterAttributes;
 import net.minecraft.entity.ai.*;

@@ -2,8 +2,8 @@ package lionking.common.block;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-import lionking.common.entity.LKEntityBug;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityBug;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IconRegister;
 import net.minecraft.util.Icon;

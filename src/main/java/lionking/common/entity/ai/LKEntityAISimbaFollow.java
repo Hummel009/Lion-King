@@ -1,7 +1,7 @@
 package lionking.common.entity.ai;
 
-import lionking.common.entity.LKEntitySimba;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntitySimba;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.entity.ai.EntityAIBase;

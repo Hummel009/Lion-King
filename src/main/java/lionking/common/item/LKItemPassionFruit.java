@@ -1,8 +1,8 @@
 package lionking.common.item;
 
 import lionking.common.LKIngame;
-import lionking.common.world.LKTeleporterUpendi;
 import lionking.common.LKMod;
+import lionking.common.world.LKTeleporterUpendi;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.EntityPlayerMP;
 import net.minecraft.item.ItemStack;

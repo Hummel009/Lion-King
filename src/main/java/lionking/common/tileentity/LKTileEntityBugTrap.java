@@ -1,7 +1,7 @@
 package lionking.common.tileentity;
 
-import lionking.common.entity.LKEntityBug;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityBug;
 import lionking.common.world.biome.*;
 import net.minecraft.block.Block;
 import net.minecraft.entity.player.EntityPlayer;

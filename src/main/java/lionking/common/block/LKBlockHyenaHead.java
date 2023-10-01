@@ -2,8 +2,8 @@ package lionking.common.block;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-import lionking.common.tileentity.LKTileEntityHyenaHead;
 import lionking.common.LKMod;
+import lionking.common.tileentity.LKTileEntityHyenaHead;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockContainer;
 import net.minecraft.block.material.Material;

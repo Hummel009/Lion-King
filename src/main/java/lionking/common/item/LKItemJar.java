@@ -1,7 +1,7 @@
 package lionking.common.item;
 
-import lionking.common.entity.LKEntityZebra;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityZebra;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.entity.player.EntityPlayer;

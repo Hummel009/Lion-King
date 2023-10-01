@@ -1,7 +1,8 @@
 package lionking.client.gui;
 
 import cpw.mods.fml.common.network.PacketDispatcher;
-import lionking.common.*;
+import lionking.common.LKLevelData;
+import lionking.common.LKMod;
 import lionking.common.inventory.LKContainerItemInfo;
 import lionking.common.item.LKItemInfo;
 import lionking.common.quest.LKQuestBase;

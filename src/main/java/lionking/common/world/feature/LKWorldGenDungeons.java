@@ -1,11 +1,11 @@
 package lionking.common.world.feature;
 
 import lionking.common.LKLevelData;
-import lionking.common.tileentity.LKTileEntityMobSpawner;
+import lionking.common.LKMod;
 import lionking.common.entity.LKEntities;
 import lionking.common.entity.LKEntityCrocodile;
 import lionking.common.entity.LKEntityHyena;
-import lionking.common.LKMod;
+import lionking.common.tileentity.LKTileEntityMobSpawner;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.enchantment.EnchantmentHelper;

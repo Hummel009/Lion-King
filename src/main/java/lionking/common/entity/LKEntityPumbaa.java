@@ -1,6 +1,8 @@
 package lionking.common.entity;
 
-import lionking.common.*;
+import lionking.common.LKIngame;
+import lionking.common.LKLevelData;
+import lionking.common.LKMod;
 import lionking.common.entity.ai.LKEntityAIPumbaaFollowTimon;
 import lionking.common.quest.LKQuestBase;
 import net.minecraft.block.Block;

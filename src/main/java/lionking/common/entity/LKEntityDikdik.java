@@ -1,9 +1,9 @@
 package lionking.common.entity;
 
+import lionking.common.LKMod;
 import lionking.common.entity.ai.LKEntityAIAmbientAvoid;
 import lionking.common.entity.ai.LKEntityAIAmbientPanic;
 import lionking.common.entity.ai.LKEntityAIAmbientWander;
-import lionking.common.LKMod;
 import net.minecraft.block.Block;
 import net.minecraft.entity.SharedMonsterAttributes;
 import net.minecraft.entity.ai.EntityAILookIdle;

@@ -1,7 +1,7 @@
 package lionking.common.entity;
 
-import lionking.common.tileentity.LKTileEntityMobSpawner;
 import lionking.common.LKMod;
+import lionking.common.tileentity.LKTileEntityMobSpawner;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.entity.Entity;

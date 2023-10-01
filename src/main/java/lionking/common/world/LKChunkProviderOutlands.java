@@ -1,6 +1,6 @@
 package lionking.common.world;
 
-import lionking.common.*;
+import lionking.common.LKMod;
 import lionking.common.world.biome.LKBiomeGenOutlandsRiver;
 import lionking.common.world.biome.LKOutlandsBiome;
 import lionking.common.world.feature.LKWorldGenOutlandsLakes;

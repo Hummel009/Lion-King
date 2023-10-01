@@ -1,10 +1,10 @@
 package lionking.common.entity;
 
+import lionking.common.LKMod;
 import lionking.common.entity.ai.LKEntityAIAngerableAttackableTarget;
 import lionking.common.entity.ai.LKEntityAIAngerableMate;
 import lionking.common.entity.ai.LKEntityAIAngerablePanic;
 import lionking.common.entity.ai.LKEntityAILionAttack;
-import lionking.common.LKMod;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityAgeable;
 import net.minecraft.entity.EntityLivingBase;

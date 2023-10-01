@@ -1,7 +1,7 @@
 package lionking.common.world.feature;
 
-import lionking.common.entity.LKEntityRafiki;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityRafiki;
 import net.minecraft.block.Block;
 import net.minecraft.util.MathHelper;
 import net.minecraft.world.World;

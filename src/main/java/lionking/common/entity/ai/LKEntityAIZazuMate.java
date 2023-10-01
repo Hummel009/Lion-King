@@ -1,7 +1,7 @@
 package lionking.common.entity.ai;
 
-import lionking.common.entity.LKEntityZazu;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityZazu;
 import net.minecraft.entity.ai.EntityAIBase;
 import net.minecraft.world.World;
 

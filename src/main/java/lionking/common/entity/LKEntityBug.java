@@ -1,8 +1,8 @@
 package lionking.common.entity;
 
-import lionking.common.tileentity.LKTileEntityBugTrap;
-import lionking.common.entity.ai.LKEntityAIBugFindTrap;
 import lionking.common.LKMod;
+import lionking.common.entity.ai.LKEntityAIBugFindTrap;
+import lionking.common.tileentity.LKTileEntityBugTrap;
 import net.minecraft.entity.EntityCreature;
 import net.minecraft.entity.EnumCreatureAttribute;
 import net.minecraft.entity.SharedMonsterAttributes;

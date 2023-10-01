@@ -1,6 +1,6 @@
 package lionking.common.world;
 
-import lionking.common.*;
+import lionking.common.LKMod;
 import lionking.common.world.biome.*;
 import lionking.common.world.feature.LKWorldGenDungeons;
 import lionking.common.world.feature.LKWorldGenRafiki;

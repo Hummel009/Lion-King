@@ -1,9 +1,9 @@
 package lionking.client.gui;
 
-import lionking.common.inventory.LKContainerTimon;
-import lionking.common.entity.LKEntityTimon;
-import lionking.common.inventory.LKSlotTimon;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityTimon;
+import lionking.common.inventory.LKContainerTimon;
+import lionking.common.inventory.LKSlotTimon;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;

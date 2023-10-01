@@ -1,7 +1,7 @@
 package lionking.client.model;
 
-import lionking.common.entity.LKEntitySimba;
 import lionking.common.LKIngame;
+import lionking.common.entity.LKEntitySimba;
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelRenderer;
 import net.minecraft.entity.Entity;

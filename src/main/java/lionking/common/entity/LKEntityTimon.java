@@ -1,6 +1,8 @@
 package lionking.common.entity;
 
-import lionking.common.*;
+import lionking.common.LKCommonProxy;
+import lionking.common.LKIngame;
+import lionking.common.LKMod;
 import lionking.common.inventory.LKInventoryTimon;
 import net.minecraft.block.Block;
 import net.minecraft.entity.EntityCreature;

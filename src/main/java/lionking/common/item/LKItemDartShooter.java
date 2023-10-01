@@ -2,8 +2,8 @@ package lionking.common.item;
 
 import lionking.common.LKAchievementList;
 import lionking.common.LKCreativeTabs;
-import lionking.common.entity.*;
 import lionking.common.LKMod;
+import lionking.common.entity.*;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;

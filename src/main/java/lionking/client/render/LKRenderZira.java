@@ -2,8 +2,8 @@ package lionking.client.render;
 
 import lionking.client.LKTickHandlerClient;
 import lionking.client.model.LKModelLion;
-import lionking.common.entity.LKEntityZira;
 import lionking.common.LKLevelData;
+import lionking.common.entity.LKEntityZira;
 import lionking.common.quest.LKQuestBase;
 import net.minecraft.client.renderer.entity.RenderLiving;
 import net.minecraft.entity.Entity;

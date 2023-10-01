@@ -1,8 +1,8 @@
 package lionking.common.world.feature;
 
 import lionking.common.LKLevelData;
-import lionking.common.entity.LKEntityTicketLion;
 import lionking.common.LKMod;
+import lionking.common.entity.LKEntityTicketLion;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockFlower;
 import net.minecraft.block.material.Material;

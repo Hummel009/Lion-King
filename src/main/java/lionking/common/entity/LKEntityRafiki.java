@@ -1,6 +1,9 @@
 package lionking.common.entity;
 
-import lionking.common.*;
+import lionking.common.LKAchievementList;
+import lionking.common.LKIngame;
+import lionking.common.LKLevelData;
+import lionking.common.LKMod;
 import lionking.common.block.LKBlockOutlandsPortal;
 import lionking.common.quest.LKQuestBase;
 import net.minecraft.entity.EntityCreature;

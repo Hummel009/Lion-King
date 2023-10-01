@@ -1,9 +1,9 @@
 package lionking.common.entity;
 
 import lionking.common.LKLevelData;
+import lionking.common.LKMod;
 import lionking.common.entity.ai.LKEntityAIAngerableAttackableTarget;
 import lionking.common.entity.ai.LKEntityAILionAttack;
-import lionking.common.LKMod;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.SharedMonsterAttributes;
 import net.minecraft.entity.ai.*;

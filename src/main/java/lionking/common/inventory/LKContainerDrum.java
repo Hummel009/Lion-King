@@ -1,6 +1,7 @@
 package lionking.common.inventory;
 
-import lionking.common.*;
+import lionking.common.LKAchievementList;
+import lionking.common.LKMod;
 import lionking.common.item.LKItemNote;
 import lionking.common.tileentity.LKTileEntityDrum;
 import net.minecraft.enchantment.EnchantmentData;

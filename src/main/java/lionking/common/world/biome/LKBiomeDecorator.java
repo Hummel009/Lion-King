@@ -1,6 +1,6 @@
 package lionking.common.world.biome;
 
-import lionking.common.*;
+import lionking.common.LKMod;
 import lionking.common.world.feature.*;
 import net.minecraft.block.Block;
 import net.minecraft.world.World;
